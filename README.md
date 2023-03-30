@@ -21,6 +21,6 @@ How to reach me 📫  <br>
 LinkedIn: https://www.linkedin.com/in/josephbrinkley/
 
 Fun facts 🕺 <br>
-I'm a content creator (music and videos mainly) 🎸 📹
-I like outdoor activies (the cover of one of my songs is the view from a mountain that I hike) ⛰️
+I'm a content creator (music and videos mainly) 🎸 📹 <br>
+I like outdoor activies (the cover of one of my songs is the view from a mountain that I hike) ⛰️ <br>
 Currently my favorite video game to play is FIFA! (U.S.A.!) ⚽️
