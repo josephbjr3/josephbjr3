@@ -17,7 +17,7 @@ My name is Joseph! 😁
 
 To view my full stack projects click [here](https://github.com/josephbjr3/vscode_full_stack) <br> <br>
 To view my QA python scripts click [here](https://github.com/josephbjr3/QA_automation) <br> <br>
-To view my non-QA python scripts click [here](https://github.com/josephbjr3/api_python_scripts) <br> <br>
+To view my non-QA python scripts click [here](https://github.com/josephbjr3/api_python_scripts) <br>
 
 How to reach me 📫  <br>
 LinkedIn: https://www.linkedin.com/in/josephbrinkley/
