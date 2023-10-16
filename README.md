@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 My name is Joseph! 😁
 
-If you're here, you've probably already seen my LinkedIn profile and resume. Therefore, you are familiar with my sales background. But what about my technical background? Can I actually code? Well take a tour of my Github and see that I can! 👨‍💻
+To view my full stack projects click [here](https://github.com/josephbjr3/vscode_full_stack))
+To view my QA python scripts click [here]((https://github.com/josephbjr3/QA_automation)
+To view my non-QA python scripts click [here](https://github.com/josephbjr3/api_python_scripts)
 
 How to reach me 📫  <br>
 LinkedIn: https://www.linkedin.com/in/josephbrinkley/
