@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 My name is Joseph! 😁
 
+To view my Apex projects click [here](https://github.com/josephbjr3/apex_specialist_badge_org)) <br> <br>
 To view my full stack projects click [here](https://github.com/josephbjr3/vscode_full_stack) <br> <br>
 To view my QA python scripts click [here](https://github.com/josephbjr3/QA_automation) <br> <br>
 To view my non-QA python scripts click [here](https://github.com/josephbjr3/api_python_scripts) <br>
